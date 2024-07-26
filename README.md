@@ -33,11 +33,13 @@
 <style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Password : AnonGhost</i></h4></p>
    
 <h2 align="center>
-<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><h2 align="center"><img title="anonghost" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anonghost" width="368" height="392" /></strong></span></p>
-   
+<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><h2 align="center"><img title="anonghost" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anonghost" width="368" height="392" /></strong></span>
+
 ---------------------------
-<h4 align="center">
-<span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>MySQL &amp; PostgreSql Connect</strong></span></span></p>
+
+<p align="center">FEATURES</h2>
+
+<h5 align="center"; style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>MySQL &amp; PostgreSql Connect</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Command Execution</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Base64 Command</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Config Grabber</strong></span></span></p>
@@ -58,16 +60,16 @@
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Symlink Inf</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Cms Scanne</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Perl based symlink</strong></span></span></p>
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Manually Retrieve Confi</strong></span></span></p>
+<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Manually Retrieve Config</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Enable Symlink If Disable</strong></span></span></p>
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Python Bypass Forbidden Via TCP Protoco</strong></span></span></p>
+<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Python Bypass Forbidden Via TCP Protocol</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Symlink Bypass 2014</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Skype Brute Force</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Cpanel Brute Force</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Joomla Brute Force</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>WordPress Brute Force</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Twitter Brute Force</strong></span></span></p>
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Gmail &amp; Hotmail Brute Forc4</strong></span></span></p>
+<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Gmail &amp; Hotmail Brute Force</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Ftp Bruteforce</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Bypass /etc/passw</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Bypass Users Serve</strong></span></span></p>
@@ -95,8 +97,7 @@
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>WordPress Index Change</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Cpanel &amp; Ftp Auto Defacer</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Bypass Server Security Function</strong></span></span></p>
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Test Permissio</strong></span></span></p>
-<p>&nbsp;</p>
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Server Infos</strong></span></span></p>
+<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Test Permissio</strong></span></p>
+<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Server Infos</strong></span></span></p></h5>
 
 ----------------------------
