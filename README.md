@@ -2,7 +2,20 @@
 AnonGhost shell
 <p><strong><img title="anon" src="https://www.wsoshell.org/uploads/blog/2022/06/anon.png" alt="anon" width="1258" height="565" /></strong></p>
 <p><strong>AnonGhost shell</strong></p>
-<h2><strong>DOWNLOAD</strong></h2>
+<p align="center">  
+<a href="https://R4GN4R0K-SEC.github.io/" title="website homepage">
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/ab1796b2-72d3-4678-b2b6-83be792b3512"/>
+<a href="https://github.com/R4GN4R0K-SEC/AnonGhost-WebShell" title="files github repo">
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/3cbe8b24-0309-45e8-932d-852c0917b865"/>
+<a href="https://github.com/R4GN4R0K-SEC/AnonGhost-WebShell/archive/refs/heads/main.zip" title="Download zip">
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/03400010-8696-4019-83d7-926b217f8203"/>    
+</p>
+<h2><strong>DOWNLOAD & EXTRACT</strong></h2>
+  
+    $ git clone https://github.com/R4GN4R0K-SEC/AnonGhost-WebShell
+    $ cd AnonGhost-WebShell
+    # apt install unrar -y && unrar ./anon.rar -y
+            
 <p><span style="box-sizing: border-box; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px; color: red;">LOGIN DETAILS</span><br style="box-sizing: border-box; color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;" /><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;">Username:&nbsp; <strong>AnonGhost</strong></span><br style="box-sizing: border-box; color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;" /><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;">Password : <strong>AnonGhost</strong></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><img title="anongosht" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anongosht" width="368" height="392" /></strong></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>MySQL &amp; PostgreSql Connect</strong></span></span></p>
