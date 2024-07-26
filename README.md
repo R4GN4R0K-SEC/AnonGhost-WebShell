@@ -28,7 +28,7 @@
 <strong>LOGIN DETAILS</strong></h2>
    
 <h4 align="center">
-<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Username: AnonGhost</i></h4></p>
+<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Username : AnonGhost</i></h4></p>
 <h4 align="center">
 <style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Password : AnonGhost</i></h4></p>
    
