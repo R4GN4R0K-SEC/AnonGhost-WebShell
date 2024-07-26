@@ -3,7 +3,7 @@
 <h4 align="center"><i>AnonGhost WebShell</i></h4>
 
 ----------------------------
-<p><img title="anon" src="https://www.wsoshell.org/uploads/blog/2022/06/anon.png" alt="anon" width="1258" height="565" /p>
+<p><img title="anon" src="https://www.wsoshell.org/uploads/blog/2022/06/anon.png" /p>
 
 ----------------------------
 <h2 align="center">
@@ -33,11 +33,11 @@
 <style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Password : AnonGhost</i></h4></p>
    
 <h2 align="center>
-<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><img title="anonghost" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anonghost" width="368" height="392" /></strong></span></p>
+<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><h2 align="center"><img title="anonghost" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anonghost" width="368" height="392" /></strong></span></p>
    
 ---------------------------
-<h2 align="center">
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>MySQL &amp; PostgreSql Connect</strong></span></span></p>
+<h4 align="center">
+<span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>MySQL &amp; PostgreSql Connect</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Command Execution</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Base64 Command</strong></span></span></p>
 <p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif;"><span style="font-size: 16px;"><strong>Config Grabber</strong></span></span></p>
