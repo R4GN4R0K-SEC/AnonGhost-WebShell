@@ -31,7 +31,9 @@
 <style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Username: AnonGhost</i></h4></p>
 <h4 align="center">
 <style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><i>Password : AnonGhost</i></h4></p>
-<p><span style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><img title="anonghost" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anonghost" width="368" height="392" /></strong></span></p>
+   
+<h2 align="center>
+<style="color: #393939; font-family: Graphik, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 16px;"><strong><img title="anonghost" src="https://www.wsoshell.org/uploads/blog/2022/06/anongosht.png" alt="anonghost" width="368" height="392" /></strong></span></p>
    
 ---------------------------
 <h2 align="center">
